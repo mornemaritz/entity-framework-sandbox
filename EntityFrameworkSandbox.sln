@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF6", "EF6\EF6.csproj", "{3F165EF5-97EA-4BA9-9433-47F8C8B082A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore", "EFCore\EFCore.csproj", "{D7FE0ACE-DAF5-423D-B9DE-A5D27F8163B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DomainModel", "DomainModel\DomainModel.csproj", "{2C59E21B-4FA6-455F-B92D-4CD77C2AF32B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F165EF5-97EA-4BA9-9433-47F8C8B082A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F165EF5-97EA-4BA9-9433-47F8C8B082A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F165EF5-97EA-4BA9-9433-47F8C8B082A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F165EF5-97EA-4BA9-9433-47F8C8B082A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7FE0ACE-DAF5-423D-B9DE-A5D27F8163B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7FE0ACE-DAF5-423D-B9DE-A5D27F8163B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7FE0ACE-DAF5-423D-B9DE-A5D27F8163B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7FE0ACE-DAF5-423D-B9DE-A5D27F8163B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C59E21B-4FA6-455F-B92D-4CD77C2AF32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C59E21B-4FA6-455F-B92D-4CD77C2AF32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C59E21B-4FA6-455F-B92D-4CD77C2AF32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C59E21B-4FA6-455F-B92D-4CD77C2AF32B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D983959C-3620-44C8-8241-ADE9E9D12993}
+	EndGlobalSection
+EndGlobal
